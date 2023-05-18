@@ -1,5 +1,5 @@
 # LaravelBlogApp-CRUD
-Developer || IT Cyiza Landry MPAYIMANA - 20RP09743
+Cyiza Landry MPAYIMANA - 20RP09743
 
 
 
